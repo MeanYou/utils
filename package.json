@@ -1,5 +1,5 @@
 {
-  "name": "utils",
+  "name": "@meanyou/utils",
   "version": "1.0.0",
   "description": "My common utils.",
   "main": "lib/index.js",
